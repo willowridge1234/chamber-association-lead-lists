@@ -328,3 +328,12 @@ No. It shows an affiliation with a business community. It may support fit or loc
 A good chamber or association lead list is not the largest export. It is a traceable, permission-aware set of distinct accounts that match a defined market and can be qualified with public evidence.
 
 If the directory supplies identity, category, location, and an official website, it has done its job. The remaining work is disciplined cleaning, honest qualification, lawful outreach, and learning whether this source produces the kinds of conversations your business actually values.
+
+## Related
+
+Other free workflows and guides we publish:
+
+- [n8n-ai-lead-scoring](https://github.com/willowridge1234/n8n-ai-lead-scoring) — Free workflow — score scraped leads against your ICP, log to Google Sheets
+- [n8n-review-intent-lead-scoring](https://github.com/willowridge1234/n8n-review-intent-lead-scoring) — Free workflow — score G2/Capterra reviewers by switching intent
+- [n8n-tradeshow-exhibitor-lead-scoring](https://github.com/willowridge1234/n8n-tradeshow-exhibitor-lead-scoring) — Free workflow — score trade-show exhibitors against your ICP
+- [n8n-lead-scoring-guide](https://github.com/willowridge1234/n8n-lead-scoring-guide) — Guide — which signals predict a good lead, and how to tell if scoring works
